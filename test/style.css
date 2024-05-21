@@ -1,0 +1,10 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.right {
+    color: rgb(66, 206, 66);
+}
+.wrong {
+    color: rgb(255, 0, 128);
+}
